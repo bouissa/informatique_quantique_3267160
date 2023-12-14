@@ -37,6 +37,6 @@ Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-l-informatique-quantique
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQFktklYuXwayg/learning-public-crop_675_1200/0/1702557387025?e=2147483647&v=beta&t=jd0wktzSq-9eT6ogGVDhbKWRw-TgZOftA24voPYVmxw
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/sylvain-labasse
