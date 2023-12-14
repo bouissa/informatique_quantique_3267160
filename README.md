@@ -3,7 +3,11 @@ Ce dossier Repository est lié au cours `L'essentiel de l'informatique quantique
 
 ![Nom final de la formation][lil-thumbnail-url]
 
-_Voir le fichier readme file de la branche principale pour des instructions et informations actualisées._
+
+Cette formation de Sylvain Labasse vous dévoile le monde de l'informatique quantique. Vous distinguerez l'informatique classique de l'informatique quantique, et vous comprendrez leurs applications respectives. Vous apprendrez à simuler des circuits quantiques, à utiliser des simulateurs, à appliquer la porte d'Hadamard, à générer des nombres aléatoires et à intriquer des qubits. Outre l'algorithme de Grover et l'Oracle, vous utiliserez Qiskit pour créer et exécuter des algorithmes sur un ordinateur quantique réel. Enfin, vous aborderez également la sécurité, la migration post-quantique, l'échange de clés, les nombres complexes, la sphère de Bloch et les matrices.
+
+Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo "Utilisation de Codespaces GitHub dans le cadre de ce cours" pour savoir comment démarrer.
+
 ## Instructions
 Pour utiliser GitHub Codespaces et faire apparaître l'environnement du cours dans votre navigateur, il vous suffit de cliquer sur :
 
