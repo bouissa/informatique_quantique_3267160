@@ -1,7 +1,6 @@
 # L'essentiel de l'informatique quantique
 Ce dossier Repository est lié au cours `L'essentiel de l'informatique quantique`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![Nom final de la formation][lil-thumbnail-url]
 
 
 Cette formation de Sylvain Labasse vous dévoile le monde de l'informatique quantique. Vous distinguerez l'informatique classique de l'informatique quantique, et vous comprendrez leurs applications respectives. Vous apprendrez à simuler des circuits quantiques, à utiliser des simulateurs, à appliquer la porte d'Hadamard, à générer des nombres aléatoires et à intriquer des qubits. Outre l'algorithme de Grover et l'Oracle, vous utiliserez Qiskit pour créer et exécuter des algorithmes sur un ordinateur quantique réel. Enfin, vous aborderez également la sécurité, la migration post-quantique, l'échange de clés, les nombres complexes, la sphère de Bloch et les matrices.
